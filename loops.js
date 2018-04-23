@@ -15,3 +15,7 @@ function forLoop(array) {
     console.log(-- n);
   } return 'done';
 } 
+
+function doWhileLoop(array) {
+  
+}
