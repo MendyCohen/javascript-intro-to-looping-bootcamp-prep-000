@@ -27,5 +27,7 @@ do {
 return array;
 } */
 
-function 
+function doWhileLoop(array) {
+  array.push;
+}
 
