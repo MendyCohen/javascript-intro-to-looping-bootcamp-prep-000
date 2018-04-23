@@ -28,7 +28,7 @@ return array;
 } */
 
 function doWhileLoop(array) {
-  array.push;
-  return array;
+ return array.push;
+  //return array;
 }
 
