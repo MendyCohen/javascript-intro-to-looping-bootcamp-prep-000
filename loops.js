@@ -10,11 +10,11 @@ function forLoop(array) {
  return array;
 } 
 
- /*function whileLoop(n) {
+ function whileLoop(n) {
    let loops = 0;
   while(100 > loops) {
   
     console.log(-- loops);
     
   }
-} */
+} 
