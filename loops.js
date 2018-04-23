@@ -13,9 +13,8 @@ function forLoop(array) {
  function whileLoop(n) {
    let loops = 100;
   while(loops > 0) {
-  return 'done';
     console.log(-- loops);
-   // return 'done';
+   return 'done';
     
-  } //return 'done';
+  } return 'done';
 } 
