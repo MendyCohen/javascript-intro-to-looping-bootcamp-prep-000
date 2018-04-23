@@ -29,5 +29,6 @@ return array;
 
 function doWhileLoop(array) {
   array.push;
+  return array;
 }
 
