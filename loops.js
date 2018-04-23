@@ -18,7 +18,7 @@ function forLoop(array) {
 
 function doWhileLoop(array) {
   function maybeTrue() {
-  Math.random() >= 0.5;
+  return Math.random() >= 0.5;
 }
 
 do {
