@@ -17,7 +17,12 @@ function forLoop(array) {
 } 
 
 function doWhileLoop(array) {
-  var = maybeTrue() {
-  return Math.random() >= 0.5
+  function maybeTrue() {
+  return Math.random() >= 0.5;
+}
+
+do {
+  console.log('doo-bee-doo-bee-doo');
+} while (maybeTrue());
 }
 
